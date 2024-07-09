@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuj Yadav</h1>
 <h3 align="center">I'm trying to learn</h3>
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujoo9&show_icons=true&locale=en" alt="GitHub Stats" style="margin-right: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujoo9" alt="GitHub Streak" />
-</div>
+<h3 align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujoo9" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
