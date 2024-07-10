@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuj Yadav</h1>
 <h3 align="center">I'm trying to learn</h3>
 
-<h3 align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujoo9" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
-</h3>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Anujoo9&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -37,4 +37,6 @@
   <img src="https://komarev.com/ghpvc/?username=anujoo9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-- 📫 How to reach me **anujyadav1001@gmail.com**
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
